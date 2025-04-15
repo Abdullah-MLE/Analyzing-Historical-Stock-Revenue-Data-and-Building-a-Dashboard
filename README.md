@@ -35,7 +35,7 @@ This project was completed as part of a data science assignment using Jupyter No
 
 ## 📁 Files
 
-- `Final Assignment-v2.ipynb`: Main Jupyter Notebook with code and explanations
+- `Analyzing Historical StockRevenue Data and Building a Dashboard.ipynb`: Main Jupyter Notebook with code and explanations
 - `README.md`: Project description and instructions
 
 ## 📬 Contact
