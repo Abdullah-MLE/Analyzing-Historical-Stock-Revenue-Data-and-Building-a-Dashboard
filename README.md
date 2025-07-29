@@ -2,7 +2,7 @@
 
 This project is part of a data science learning journey, where I analyze historical stock and revenue data for a selected company and visualize the findings using interactive plots.
 
-## 📌📌📌📌📌📌📌📌📌📌📌📌📌 Project Description
+## 📌 Project Description
 
 The goal of this project is to:
 
