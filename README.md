@@ -41,7 +41,3 @@ This project was completed as part of a data science assignment using Jupyter No
 ## 📬 Contact
 
 For any questions or feedback, feel free to reach out via GitHub issues.
-
----
-
-Feel free to customize this README to fit your style or add your name, screenshots, or extra explanations.
